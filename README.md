@@ -1,2 +1,2 @@
 # origin
-Aim of project
+Aim of project is
